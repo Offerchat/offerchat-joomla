@@ -39,11 +39,12 @@ Check out the [Offerchat](http://www.offerchat.com "Offerchat") website to know 
 Installation
 ------------
 
-1. Download the module [here] (http://d1cpaygqxflr8n.cloudfront.net/plugins/offerchat_widget.zip "here")
-2. Click "Install new module" on your admin modules page.
-3. Upload the module by choosing the file from yuor computer.
-4. Enable "Offerchat Widget" on your modules page and click "Save configuration".
-5. Configure Offerchat widget and add your API key.
+1. Download the module [here] (http://d1cpaygqxflr8n.cloudfront.net/plugins/offerchat_joomla.zip "here")
+2. Go to Extensions > Extension Manager on your administrator page.
+3. Upload & Install the file by choosing the file from your computer.
+4. Go to Extensions > Plug-in Manager on your administrator page and search for "Offerchat Widget".
+5. Click "System - Offerchat Widget" under the Plug-in Name section.
+6. Click the Basic Options tab and add your API key found on your offerchat dashboard then click save.
 
 Frequently Asked Questions
 ==========================
