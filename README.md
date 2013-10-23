@@ -1,4 +1,4 @@
-Offerchat Drupal Module
+Offerchat Joomla Plug-in
 ===================
 
 This plugin will enable offerchat users to easily install offerchat widget to their wordpress websites.
@@ -8,7 +8,7 @@ Description
 
 Make your site visitors feel somebody's ready to assist them by adding a web based live chat plugin on your site.
 
-The new Offerchat Live Chat module for drupal will allow you to have a real person ready on alert to answer visitor questions while browsing your site. It's faster than email and more convenient than a phone call.
+The new Offerchat Live Chat plug-in for joomla will allow you to have a real person ready on alert to answer visitor questions while browsing your site. It's faster than email and more convenient than a phone call.
 
 [Offerchat Video](http://vimeo.com/48795544)
 
@@ -39,7 +39,7 @@ Check out the [Offerchat](http://www.offerchat.com "Offerchat") website to know 
 Installation
 ------------
 
-1. Download the module [here] (http://d1cpaygqxflr8n.cloudfront.net/plugins/offerchat_joomla.zip "here")
+1. Download the plug-in [here] (http://d1cpaygqxflr8n.cloudfront.net/plugins/offerchat_joomla.zip "here")
 2. Go to Extensions > Extension Manager on your administrator page.
 3. Upload & Install the file by choosing the file from your computer.
 4. Go to Extensions > Plug-in Manager on your administrator page and search for "Offerchat Widget".
@@ -49,10 +49,10 @@ Installation
 Frequently Asked Questions
 ==========================
 
-Who can use this module?
+Who can use this plugin?
 ------------------------
 
-Offerchat Registered users who have drupal websites.
+Offerchat Registered users who have joomla websites.
 
 What do I need to be able to use this plugin?
 ---------------------------------------------
