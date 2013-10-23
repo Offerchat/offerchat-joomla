@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.5" type="plugin" group="system" method="update">
+	<name>System - Offerchat Widget</name>
+	<author>Keenan Iban</author>
+  <creationDate>16th October 2013</creationDate>
+  <authorEmail>keenan.iban@gmail.com</authorEmail>
+  <version>1.0.0</version>
+  <copyright>Copyright (c) 2013 Offerchat. All rights reserved.</copyright>
+  <files>
+    <filename plugin="Offerchat">Offerchat.php</filename>
+  </files>
+  <config>
+    <fields name="params" >
+    	<fieldset name="Basic">
+        <field name="api_key" type="text" label="API Key." description="Your API key is found in your offerchat dashboard. Your offerchat widget will not display unless you enter your API key."></field>
+      </fieldset>
+    </fields>
+  </config>
+</extension>
