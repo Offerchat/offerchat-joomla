@@ -28,7 +28,7 @@ Why Choose Offerchat?
 
 * The freshest, fastest growing live chat application today.
 * Very easy to setup and use.
-* Works across major browsers (Chrome, Firefox, unsa pa? ikaw lng butang)
+* Works across major browsers (Chrome, Firefox, Safari, Opera & IE8 up)
 * Cool interface, customizable chat widget.
 * It's web based. No crazy software installations
 
